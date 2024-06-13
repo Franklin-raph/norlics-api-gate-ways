@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Gateway1",
+      "url": "https://gateway1.com/pay"
+    },
+    {
+      "name": "Gateway2",
+      "url": "https://gateway2.com/pay"
+    },
+    {
+      "name": "Gateway3",
+      "url": "https://gateway3.com/pay"
+    }
+  ]
+  
